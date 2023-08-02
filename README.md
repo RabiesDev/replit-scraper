@@ -1,6 +1,7 @@
 # Replit Scraper
 ## What is this
-Replitの検索を自動化するツール
+Replitの検索を自動化するツール  
+![Preview](https://img001.prntscr.com/file/img001/QM9k2ABpRF6F2NkAvcEAlg.png)
 
 ## How to use
 このレポジトリをクローンして、`go build`でビルドした実行ファイルを実行してください  
