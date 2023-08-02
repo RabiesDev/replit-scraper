@@ -1,6 +1,10 @@
 github.com/RabiesDev/go-logger v0.0.4 h1:XwFp02j4wu9F6G5sf/F4lEjq7tH027Bid042wwSrtzQ=
 github.com/RabiesDev/go-logger v0.0.4/go.mod h1:+AjaB8KKMJSjEO2KwLN2pegCsX5Bh8pwLfyqj08AtCE=
+github.com/RabiesDev/go-logger v0.0.5 h1:ARJ1v194lN0yr1TmWBHA+3y7yvoFrjYxpcRdh1RYiwM=
+github.com/RabiesDev/go-logger v0.0.5/go.mod h1:+AjaB8KKMJSjEO2KwLN2pegCsX5Bh8pwLfyqj08AtCE=
 github.com/RabiesDev/request-helper v1.0.1 h1:84PWoLui9RTDEiV881g9NEtcy6GyWsmWLAPkJrXjOH4=
 github.com/RabiesDev/request-helper v1.0.1/go.mod h1:KgGk2VybMKCclYyHEyzVUzdOQnhEGSa5aDX7G4TURbU=
+github.com/RabiesDev/request-helper v1.0.2 h1:GBncIRmGhRaN8Pf/ZNWTAXgbkx7SzxOQex+ACz/d64Q=
+github.com/RabiesDev/request-helper v1.0.2/go.mod h1:KgGk2VybMKCclYyHEyzVUzdOQnhEGSa5aDX7G4TURbU=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
