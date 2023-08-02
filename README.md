@@ -3,11 +3,14 @@
 Replitの検索を自動化するツール
 
 ## How to use
-Releaseからアプリをダウンロードして実行してください  
-Configは引数から指定できます（デフォルトは同じディレクトリ内のConfig）  
+このレポジトリをクローンして、`go build`でビルドした実行ファイルを実行してください  
+Configは引数から指定できます（デフォルトは同じディレクトリ内のConfig） 
+
+`sessions.txt`には`connect.sid`クッキーを入れてください  
+安定して高速に検索を行うには、少なくとも四つ以上のアカウントが必要です
 
 Massiveオプションを使うには、`crosis_api`を実行させておく必要があります  
-ParallelとMassiveを同時使用するとレートリミットに引っかかる可能性があります
+ディレクトリの検索には時間が掛かります(websocketを使用しているため)
 
 ## Setting up CrosisApi
 `npm install`でパッケージをインストールした後、start.batを起動するだけです
